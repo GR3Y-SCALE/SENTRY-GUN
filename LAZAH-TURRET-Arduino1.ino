@@ -25,7 +25,7 @@ void setup() {
 }
 
 void loop() {
-  //no need
+  //no need but arduino likes it in here
 
 }
 
